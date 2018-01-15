@@ -5,7 +5,7 @@
     </title>
     </head>
     <body>
-    <h3 align ="right"><a href="login.php"> ADMIN  LOGIN </a></h3>
+    <h3 align ="right"><a href="login.php"> ADMIN  Login</a></h3>
             <h1 align="center"> MOST  WELCOME TO STUDENT MANAGEMENT SYSTEM  WITH LOVEKESH MADAAN  </h1>
       <form method ="post" action="index.php">
         <table style="width(50%);" align="center" border="3px">
