@@ -1,0 +1,12 @@
+.admintitle
+{ 
+    background-color: aqua;
+    margin-left: 20px;
+    margin-top: 30px;
+    height: 140px;
+    line-height: 140px;   
+}
+.dashboard
+{
+    background-color: bisque;
+}
